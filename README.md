@@ -1,6 +1,6 @@
 # ***Fixed wing UAV dataset and model***
 
-This repository contains a dataset of labeled images for fixed-wing UAVs (Unmanned Aerial Vehicles), which was trained using YOLOv5. The dataset is suitable for object detection tasks and can be utilized to train, validate, and test deep learning models for UAV recognition. I created this for Teknofest Fighting UAV competition.
+This repository contains a dataset of labeled images for fixed-wing UAVs (Unmanned Aerial Vehicles), which was trained using YOLOv5. The dataset is suitable for object detection tasks and can be utilized to train, validate, and test deep learning models for UAV recognition. I created this for Teknofest Fighting UAV competition. For Turkish visit [TURKISH](https://app.roboflow.com)
 
 ## Dataset Overview
 The dataset includes labeled images of fixed-wing UAVs with bounding boxes and corresponding class labels. It is structured to be compatible with YOLOv5's training pipeline.
