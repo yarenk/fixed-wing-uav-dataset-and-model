@@ -50,9 +50,11 @@ Veri setinin dizin yapısı aşağıdaki gibidir:
    - **Doğruluk (Precision)**: %99.2
    - **Hatırlama (Recall)**: %98.6
    - **mAP**: %98.4
+   Eğitilen modeli best.pt dosyasını indirerek kullanbilirsiniz.
 
 ## Örnek Görüntüler
-![Örnek Görüntü](path/to/example_image.png)
+![Örnek](https://github.com/yarenk/fixed-wing-uav-dataset-and-model/blob/main/Example.png)
+![Metrics](https://github.com/yarenk/fixed-wing-uav-dataset-and-model/blob/main/metrics.png)
 
 ## Teşekkür
 Bu veri setinin oluşturulmasında katkıda bulunanlara ve şu araçlara teşekkür ederim:
