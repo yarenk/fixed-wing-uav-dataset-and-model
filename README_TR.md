@@ -2,6 +2,8 @@
 
 Bu depo, YOLOv5 kullanılarak eğitilmiş sabit kanatlı İHA'lara (İnsansız Hava Araçları) ait etiketlenmiş görüntülerin yer aldığı bir veri seti içermektedir. Veri seti, nesne tespiti görevleri için uygundur ve İHA tanıma amacıyla derin öğrenme modellerini eğitmek, doğrulamak ve test etmek için kullanılabilir. Bu çalışmayı Teknofest Savaşan İHA yarışması için oluşturdum.
 
+## ***Datasete buradan ulaşabilirsiniz: [Dataset](https://github.com/yarenk/fixed-wing-uav-dataset-and-model/releases/tag/version1)***
+
 ## Veri Seti Genel Bakış
 Veri seti, sabit kanatlı İHA'ların sınıf etiketleri ve sınır kutuları ile etiketlenmiş görüntülerini içerir. YOLOv5 eğitim hattıyla uyumlu olacak şekilde yapılandırılmıştır.
 
@@ -16,12 +18,12 @@ Veri setinin dizin yapısı aşağıdaki gibidir:
 
 ```
 ┌── dataset/
-│   ├── images/
-│   │   ├── train/        # Eğitim görüntüleri
-│   │   └── val/          # Doğrulama görüntüleri
-│   ├── labels/
-│   │   ├── train/        # Eğitim için YOLO formatındaki etiketler
-│   │   └── val/          # Doğrulama için YOLO formatındaki etiketler
+│   ├── train/
+│   │   ├── images/        # Eğitim görüntüleri
+│   │   └── labels/          # Doğrulama görüntüleri
+│   ├── val/
+│   │   ├── images/        # Eğitim için YOLO formatındaki etiketler
+│   │   └── labels/          # Doğrulama için YOLO formatındaki etiketler
 └── README.md         # Veri seti açıklaması
 ```
 
