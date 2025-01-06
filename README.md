@@ -8,7 +8,7 @@ The dataset includes labeled images of fixed-wing UAVs with bounding boxes and c
 ### Features:
 - **Image Format**: JPEG/PNG
 - **Annotation Format**: YOLO format (TXT files for each image with class and bounding box coordinates)
-- **Classes**: Fixed-wing UAV
+- **Classes**: iha
 - **Split**: Training, validation, and test sets are included.
 
 ## Directory Structure
