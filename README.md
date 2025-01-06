@@ -18,12 +18,12 @@ Below is the directory structure of the dataset:
 
 ```
 ┌── dataset/
-│   ├── images/
-│   │   ├── train/        # Training images
-│   │   └── val/          # Validation images
-│   ├── labels/
-│   │   ├── train/        # YOLO format annotations for training
-│   │   └── val/          # YOLO format annotations for validation
+│   ├── train/
+│   │   ├── images/        # Training images
+│   │   └── labels/          # Validation images
+│   ├── val/
+│   │   ├── images/        # YOLO format annotations for training
+│   │   └── labels/          # YOLO format annotations for validation
 └── README.md  # Dataset description
 ```
 
