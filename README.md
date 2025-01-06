@@ -22,7 +22,7 @@ Below is the directory structure of the dataset:
 │   ├── labels/
 │   │   ├── train/        # YOLO format annotations for training
 │   │   └── val/          # YOLO format annotations for validation
-│   └── README.md  # Dataset description
+└── README.md  # Dataset description
 ```
 
 ## Dataset Preparation and Training
