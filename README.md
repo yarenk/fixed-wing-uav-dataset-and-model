@@ -49,15 +49,6 @@ Below is the directory structure of the dataset:
    - **Recall**: 98.6%
    - **mAP**: 98.4%
 
-## How to Use the Dataset
-
-1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/yarenk/fixed-wing-uav-dataset-and-model.git
-   ```
-
-2. **Use the Dataset for Training**:
-   You can use this dataset to train your custom models.
 
 ## Example Images
 ![Example Image](path/to/example_image.png)
