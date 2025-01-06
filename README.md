@@ -50,10 +50,12 @@ Below is the directory structure of the dataset:
    - **Precision**: 99.2%
    - **Recall**: 98.6%
    - **mAP**: 98.4%
+   The model can be used by downloading the `best.pt` file."
 
-
+ 
 ## Example Images
-![Example Image](path/to/example_image.png)
+![Example Image](https://github.com/yarenk/fixed-wing-uav-dataset-and-model/blob/main/Example.png)
+![Metrics](https://github.com/yarenk/fixed-wing-uav-dataset-and-model/blob/main/metrics.png)
 
 
 ## Acknowledgements
