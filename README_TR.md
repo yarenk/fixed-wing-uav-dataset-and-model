@@ -31,7 +31,7 @@ Veri setinin dizin yapısı aşağıdaki gibidir:
    Görüntüler, sabit kanatlı İHA'ların etrafında sınır kutuları oluşturmak için [Roboflow](https://app.roboflow.com) kullanılarak manuel olarak etiketlendi. Etiketler, YOLO formatında kaydedildi ve YOLOv5 eğitimine uygun hale getirildi.
 
 2. **Veri Seti Bölünmesi**:
-   Eğitim sürecinde doğru değerlendirme sağlamak amacıyla veri seti eğitim ve doğrulama olarak bölündü. Verilerin yaklaşık %90'ı eğitim için, %5'i doğrulama için ayrıldı.
+   Eğitim sürecinde doğru değerlendirme sağlamak amacıyla veri seti eğitim ve doğrulama olarak bölündü. Verilerin yaklaşık %90'ı train için, %10'u validation için ayrıldı.
 
 3. **Model Eğitimi**:
    YOLOv5 modeli, hazırlanan veri seti kullanılarak eğitildi. Eğitim yapılandırması şunları içeriyordu:
