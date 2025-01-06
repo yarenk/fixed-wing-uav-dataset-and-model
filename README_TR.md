@@ -49,16 +49,6 @@ Veri setinin dizin yapısı aşağıdaki gibidir:
    - **Hatırlama (Recall)**: %98.6
    - **mAP**: %98.4
 
-## Veri Setinin Kullanımı
-
-1. **Depoyu Klonlayın**:
-   ```bash
-   git clone https://github.com/yarenk/fixed-wing-uav-dataset-and-model.git
-   ```
-
-2. **Veri Setini Eğitim için Kullanın**:
-   Bu veri setini özel modellerinizi eğitmek için kullanabilirsiniz.
-
 ## Örnek Görüntüler
 ![Örnek Görüntü](path/to/example_image.png)
 
