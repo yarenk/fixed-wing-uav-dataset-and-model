@@ -22,7 +22,7 @@ Veri setinin dizin yapısı aşağıdaki gibidir:
 │   ├── labels/
 │   │   ├── train/        # Eğitim için YOLO formatındaki etiketler
 │   │   └── val/          # Doğrulama için YOLO formatındaki etiketler
-│   └── README.md         # Veri seti açıklaması
+└── README.md         # Veri seti açıklaması
 ```
 
 ## Veri Seti Hazırlığı ve Eğitim Süreci
